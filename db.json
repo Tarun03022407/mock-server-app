@@ -1,0 +1,190 @@
+{
+
+    "newArrivals" :[
+      {
+        "id": 1,
+        "url": "https://www.yoox.com/images/items/14/14270715XR_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"MAJE",
+        "title":"Caridigon",
+        "offer":"43% OFF",
+        "price":"174,00"
+       
+      },
+      {
+        "id": 2,
+        "url": "https://www.yoox.com/images/items/50/50291958CE_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"MM6 MAISON MARGIELA",
+        "title":"Ring",
+        "offer":"35% OFF",
+        "price":"113,00"
+      },
+      {
+        "id": 3,
+        "url": "https://www.yoox.com/images/items/50/50291958CE_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"MM6 MAISON MARGIELA",
+        "title":"Bracelet",
+        "offer":"35% OFF",
+        "price":"113,00"
+      },
+      {
+        "id": 4,
+        "url": "https://www.yoox.com/images/items/13/13908422SI_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"RE/DONE WITH LEVI'S",
+        "title":"Denim Pants",
+        "offer":"49% OFF",
+        "price":"239,00"
+      },
+      {
+        "id": 5,
+        "url": "https://www.yoox.com/images/items/48/48291010FA_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"HANRO",
+        "title":"Sleepware",
+        "offer":"10% OFF",
+        "price":"198,00"
+      },
+      {
+        "id": 6,
+        "url": "https://www.yoox.com/images/items/50/50290936UM_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"VIVIENNE WESTWOOD",
+        "title":"Socks & tights",
+        "offer":"15% OFF",
+        "price":"28,00"
+      },
+      {
+        "id": 7,
+        "url": "https://www.yoox.com/images/items/13/13912289PA_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"JOSEPH",
+        "title":"Earrings",
+        "offer":"11% OFF",
+        "price":"149,00"
+      },
+      {
+        "id": 8,
+        "url": "https://www.yoox.com/images/items/49/49806254FP_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"MM6 MAISON MARGIELA",
+        "title":"Blaizer",
+        "offer":"49% OFF",
+        "price":"414,00"
+      }
+    ],
+    "oneofakind":[
+      {
+        "id": 1,
+        "url": "https://www.yoox.com/images/items/50/50288703MS_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"CHLOE",
+        "title":"Pendant",
+        "offer":"36% OFF",
+        "price":"37,00"
+    },
+    {
+      "id": 2,
+      "url": "https://www.yoox.com/images/items/16/16157930OH_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"MARNI",
+      "title":"Coat",
+      "offer":"56% OFF",
+      "price":"962,00"
+    },
+    {
+      "id": 3,
+      "url": "https://www.yoox.com/images/items/45/45698461RJ_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"NANUSHKA",
+      "title":"Handbag",
+      "offer":"48% OFF",
+      "price":"112,00"
+    },
+    {
+      "id": 4,
+      "url": "https://www.yoox.com/images/items/17/17366392GE_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"GIANVITTO ROSSI",
+      "title":"Ankle Boot",
+      "offer":"38% OFF",
+      "price":"848,00"
+    },
+    {
+      "id": 5,
+      "url": "https://www.yoox.com/images/items/16/16169848HN_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"ISABEL MARANT ETOILE",
+      "title":"Coat",
+      "offer":"65% OFF",
+      "price":"210,00"
+    },
+    {
+      "id": 6,
+      "url": "https://www.yoox.com/images/items/17/17358702KX_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"CHLOE",
+      "title":"Boots",
+      "offer":"48% OFF",
+      "price":"340,00"
+    },
+    {
+      "id": 7,
+      "url": "https://www.yoox.com/images/items/49/49764634UT_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"LISA MARIE FERNANDIS",
+      "title":"Blaizer",
+      "offer":"51% OFF",
+      "price":"188,00"
+    },
+    {
+      "id": 8,
+      "url": "https://www.yoox.com/images/items/46/46864723JN_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"ROCHAS",
+      "title":"Hat",
+      "offer":"48% OFF",
+      "price":"183,00"
+    },
+    {
+      "id": 9,
+      "url": "https://www.yoox.com/images/items/13/13859882NF_14_f.jpg?impolicy=crop&width=306&height=390",
+      "brand":"VALENTINO",
+      "title":"Mini Skirt",
+      "offer":"61% OFF",
+      "price":"635,00"
+    }
+    ],
+    "eightbyyoox":[
+      {
+        "id":1,
+        "url": "https://www.yoox.com/images/items/14/14270805CJ_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"8 BY TRENDZ",
+        "title":"Sweater",
+        "price":"140,00"
+      },
+      {
+        "id":2,
+        "url": "https://www.yoox.com/images/items/17/17308140QS_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"8 BY TRENDZ",
+        "title":"Loafers",
+        "price":"119,00"
+      },
+      {
+        "id":3,
+        "url": "https://www.yoox.com/images/items/13/13887122LP_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"8 BY TRENDZ",
+        "title":"Midi Skirt",
+        "price":"108,00"
+      },
+      {
+        "id":4,
+        "url": "https://www.yoox.com/images/items/14/14275963KQ_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"8 BY TRENDZ",
+        "title":"Sweater",
+        "price":"154,00"
+      },
+      {
+        "id":5,
+        "url": "https://www.yoox.com/images/items/13/13906816CJ_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"8 BY TRENDZ",
+        "title":"Denim Pants",
+        "price":"120,00"
+      },
+      {
+        "id":6,
+        "url": "https://www.yoox.com/images/items/16/16167703EE_14_f.jpg?impolicy=crop&width=306&height=390",
+        "brand":"8 BY TRENDZ",
+        "title":"Shell Jackets",
+        "price":"154,00"
+      }
+      
+      
+    ]
+    }
